@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "AutoSalesProject", "AutoSalesProject\AutoSalesProject.dtproj", "{455A417E-7015-430E-8AAE-CAF65F44DBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455A417E-7015-430E-8AAE-CAF65F44DBFE}.Development|Default.ActiveCfg = Development
+		{455A417E-7015-430E-8AAE-CAF65F44DBFE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259062AD-071B-4292-8FF6-9F93666FF197}
+	EndGlobalSection
+EndGlobal

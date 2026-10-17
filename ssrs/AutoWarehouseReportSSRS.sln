@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "AutoWarehouseReportSSRS", "AutoWarehouseReportSSRS\AutoWarehouseReportSSRS.rptproj", "{2AB3C686-F1A2-45BB-8799-1B130E2AE244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Debug|Default.ActiveCfg = Debug
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Debug|Default.Build.0 = Debug
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Debug|Default.Deploy.0 = Debug
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.DebugLocal|Default.Build.0 = DebugLocal
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Release|Default.ActiveCfg = Release
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Release|Default.Build.0 = Release
+		{2AB3C686-F1A2-45BB-8799-1B130E2AE244}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F2CE55-E2D2-44F8-A6A2-07C4E8207036}
+	EndGlobalSection
+EndGlobal
